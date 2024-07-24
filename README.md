@@ -1,0 +1,7 @@
+- 👋 olá, meu nome é **@limaxs042**
+- 👀 Tenho curiosidades em aprender páginas na web.
+- 🌱 *Eu estou aprendendo atualmente a programar jogos no scratch e em JavaScript*
+- 💞️ I’m looking to collaborate on ...
+- 📫 vocês podem entrar em contato comigo através desse email: @beatryz.jacoboski@escola.pr.gov.br
+- ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
