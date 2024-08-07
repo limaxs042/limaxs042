@@ -4,3 +4,4 @@
 - 📫 vocês podem entrar em contato comigo através desse email: @beatryz.jacoboski@escola.pr.gov.br
 - ![scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![universo](https://i.pinimg.com/originals/94/a7/f5/94a7f5ce4f3d89d3fac3dd65dd257152.gif) 
